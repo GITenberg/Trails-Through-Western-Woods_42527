@@ -1,0 +1,32 @@
+_repo: Trails-Through-Western-Woods_42527
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42527-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sanders, Helen Fitzgerald
+    alias: Fitzgerald, Helen
+    birthdate: 1883
+    gutenberg_agent_id: '41734'
+    url: http://www.gutenberg.org/2009/agents/41734
+description: ''
+gutenberg_issued: '2013-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42527'
+  lccn: '10015649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American bison'
+- !lcsh 'Dakota Indians'
+- !lcsh 'Montana -- Description and travel'
+- !lcsh 'Salish Indians'
+- !lcsh 'Catholic Church -- Missions'
+- !lcc 'F721'
+- !lcsh 'Missions -- Montana'
+title: Trails Through Western Woods
+url: http://www.gutenberg.org/ebooks/42527
